@@ -1,4 +1,4 @@
-var ss = SpreadsheetApp.openById('1MeXR1lNymO7aAWEBiGiWM4DjFb1jhdcHUh8wb2chNJg');
+var ss = SpreadsheetApp.openById('Enter Your Google Spreadsheet link');
 var sheet = ss.getSheetByName('Sheet1');
 var timezone = "Asia/Kolkata";
 
