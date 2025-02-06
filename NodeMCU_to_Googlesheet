@@ -1,4 +1,4 @@
-#include <SPI.h>
+er#include <SPI.h>
 #include <MFRC522.h>
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
@@ -18,10 +18,10 @@ byte bufferLen = 32;
 byte readBlockData[32];
 
 String card_holder_name;
-const String sheet_url = "https://script.google.com/macros/s/AKfycbwxwLshdyKEuxkB0rHoBu4Y7Ri1OQcA2bHdF4o4qRytxASaddzwXQ4tuFHpLTvqKOz/exec?name=";
+const String sheet_url = "Enter google spreadsheet link + ?name=";
 
-#define WIFI_SSID "karan"
-#define WIFI_PASSWORD "karan2005"
+#define WIFI_SSID "Enter Your wifi name"
+#define WIFI_PASSWORD "Enter your Wifi Password"
 
 void setup() {
     Serial.begin(9600);
