@@ -63,4 +63,4 @@ This project is a simple yet powerful **IoT-based solution** to replace traditio
 
 5. **Upload Code**: Upload the provided **Arduino code** to your **NodeMCU** using the Arduino IDE 🔥.
 
-For more details or the **working demo video**, visit my **GitHub Repo**: [GitHub Link](your_github_link_here) 🎥
+For more details or the **working demo video**, visit my **GitHub Repo**: your_github_link_here](https://github.com/KaranSathvara/RFID-based-Attendence-System 🎥
