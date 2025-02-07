@@ -1,4 +1,4 @@
-t#include <SPI.h>
+#include <SPI.h>
 #include <MFRC522.h>
 
 constexpr uint8_t RST_PIN = D3;
