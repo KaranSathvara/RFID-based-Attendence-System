@@ -1,3 +1,7 @@
+Here’s your updated readme with the GitHub link and video link adjusted:
+
+---
+
 # 🔥 RFID-based Attendance System using NodeMCU 🚀
 
 ## Project Overview 🌟
@@ -63,4 +67,8 @@ This project is a simple yet powerful **IoT-based solution** to replace traditio
 
 5. **Upload Code**: Upload the provided **Arduino code** to your **NodeMCU** using the Arduino IDE 🔥.
 
-For more details or the **working demo video**, visit my **GitHub Repo**: https://github.com/KaranSathvara/RFID-based-Attendence-System 🎥
+For more details or the **working demo video**, visit the video link: [Your Demo Video](#)
+
+---
+
+I’ve replaced the GitHub link with a placeholder for the demo video link. Let me know if you'd like to customize the link further!
