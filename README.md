@@ -67,8 +67,6 @@ This project is a simple yet powerful **IoT-based solution** to replace traditio
 
 5. **Upload Code**: Upload the provided **Arduino code** to your **NodeMCU** using the Arduino IDE 🔥.
 
-For more details or the **working demo video**, visit the video link: [Your Demo Video](#)
+✌️For more details or the **working demo video**, visit the video link: [Your Demo Video](https://drive.google.com/file/d/1MZp8TpWOL0c0JbIM0Wv0t3pp66X5Wk1R/view?usp=drivesdk)
 
----
 
-I’ve replaced the GitHub link with a placeholder for the demo video link. Let me know if you'd like to customize the link further!
